@@ -7,7 +7,7 @@ I will guess that you want to learn something where
 * You can actually refactor programs without them breaking
 * You want the computer to do more things that you shouldn't have to do
 * You want to use tools that help you learn more and do more meaningful work in less time
-* You have the tools to do things as you see fit, not just as some thoughtleader has dictated
+* You want to do things as you see fit, not just as some thoughtleader has dictated
 
 In that case, welcome. If not, maybe you'll still want to just poke around and look at some of the things here.
 

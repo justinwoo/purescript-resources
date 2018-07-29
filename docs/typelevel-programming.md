@@ -10,7 +10,6 @@ This is a truly exciting and interesting area of PureScript, but most people wan
 * Multiple parameter type classes
 * Functional dependencies
 * Overlapping instances
-* Kind signatures
 * Row polymorphism in PureScript
 * PureScript-Record
 * PureScript-Variant

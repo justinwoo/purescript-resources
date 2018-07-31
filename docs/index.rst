@@ -16,7 +16,9 @@ Pages
   ffi
   json
   http-requests
+  ui
   collections
   node-backends
   typelevel-programming
   blogs
+  0.11.7-to-0.12.0

@@ -22,6 +22,6 @@ There was little involved other than for renaming.
 
 ## "It's hard to go from Eff to Effect"
 
-Unless you already used many tricks to encode extra information by creating types of kind `Type -> Effect`, there are only renaming chanes involved.
+Unless you already used many tricks to encode extra information by creating types of kind `Type -> Effect`, there are only renaming changes involved.
 
 <https://twitter.com/jusrin00/status/1021737244674154496>

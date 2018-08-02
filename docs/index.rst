@@ -19,6 +19,7 @@ Pages
   ui
   collections
   node-backends
+  travis
   typelevel-programming
   blogs
   0.11.7-to-0.12.0

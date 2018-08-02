@@ -11,10 +11,10 @@ sudo: required
 
 ## Telling Haskell RTS the bad news
 
-You can pass runtime system arguments as passthrough arguments to pulp to make Travis build correctly:
+You can pass runtime system arguments as pass-through arguments to pulp to make Travis build correctly:
 
 ```
 pulp build -- +RTS -N1 -RTS
 ```
 
-This will make builds run smoothyl most of the time. As with everything Travis-related, godspeed.
+This will make builds run smoothly most of the time. As with everything Travis-related, godspeed.

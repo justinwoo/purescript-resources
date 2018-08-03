@@ -11,6 +11,7 @@ Pages
 .. toctree::
 
   intro
+  installation
   community
   psc-package
   ffi

@@ -36,3 +36,5 @@ Grab the PureScript binary from Github releases and put it in your path (e.g. `~
 Grab the Psc-Package binary from Github releases and put it in your path: <https://github.com/purescript/psc-package/releases>
 
 You will have to install `pulp` via npm, but you don't necessarily have to use pulp. Nevertheless, `npm install -g pulp` or `npm i -S pulp` in your project.
+
+You might try this bash script, but if it doesn't work, make a PR: <https://github.com/justinwoo/purescript-resources/blob/master/purs-install.bash>

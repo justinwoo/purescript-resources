@@ -8,6 +8,8 @@ You should read these links at minimum:
 * PureScript documentation guide on FFI <https://github.com/purescript/documentation/blob/master/guides/FFI.md>
 * PureScript-Effect uncurried function documentation <https://pursuit.purescript.org/packages/purescript-effect/2.0.0/docs/Effect.Uncurried>
 
+I have some examples of various ways of doing FFI here: <https://github.com/justinwoo/purescript-ffi-intro>
+
 ## "What if I need to validate inputs from FFI?"
 
 Use the `Foreign` type from the `purescript-foreign` library and see the next section, which is not only about JSON but also about foreign JS values.

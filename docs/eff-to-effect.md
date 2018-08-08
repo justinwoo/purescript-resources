@@ -25,3 +25,11 @@ There was little involved other than for renaming.
 Unless you already used many tricks to encode extra information by creating types of kind `Type -> Effect`, there are only renaming changes involved.
 
 <https://twitter.com/jusrin00/status/1021737244674154496>
+
+## "Eff to Effect was decided by Twitter poll"
+
+See links above, and then see the actual poll and thread of explanations: <https://twitter.com/paf31/status/908760073303764993>
+
+### "But the result of the poll isn't vastly positive"
+
+How much did you have faith in Twitter polls anyway?

@@ -24,6 +24,7 @@ Pages
   node-backends
   travis
   typelevel-programming
+  datatype-generics
   blogs
   0.11.7-to-0.12.0
   eff-to-effect

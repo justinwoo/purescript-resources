@@ -23,6 +23,14 @@ Documentation is here <https://github.com/purescript/documentation>
 
 Some of these pages are outdated or stale, so you might ask people to consider updating them in various channels.
 
+## "Where do I find libraries?"
+
+Pursuit <https://pursuit.purescript.org/>
+
+## "Where do I find docs for libraries?"
+
+Pursuit <https://pursuit.purescript.org/>
+
 ## "What is the `purescript-contrib` org on Github?"
 
 Various donated libraries to be maintained by contributors of `purescript-contrib`, to varying degrees. Use these if you want, don't use them if you don't want.

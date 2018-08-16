@@ -22,6 +22,7 @@ Pages
   ui
   collections
   node-backends
+  databases
   travis
   typelevel-programming
   datatype-generics

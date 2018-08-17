@@ -20,6 +20,7 @@ Pages
   json
   http-requests
   ui
+  elm-like
   collections
   node-backends
   databases

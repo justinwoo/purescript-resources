@@ -20,6 +20,7 @@ Pages
   json
   http-requests
   ui
+  testing
   elm-like
   collections
   node-backends

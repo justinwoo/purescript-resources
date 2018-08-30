@@ -34,3 +34,9 @@ Pursuit <https://pursuit.purescript.org/>
 ## "What is the `purescript-contrib` org on Github?"
 
 Various donated libraries to be maintained by contributors of `purescript-contrib`, to varying degrees. Use these if you want, don't use them if you don't want.
+
+## What is the difference between row type of Type (# Type) and Records (`{}`/`Record ()`)?
+
+Read here: https://pursuit.purescript.org/builtins/docs/Prim#t:Record
+
+Note the parens vs curly brace

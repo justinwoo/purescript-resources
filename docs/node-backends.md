@@ -13,3 +13,7 @@ See the repo at <https://github.com/justinwoo/purescript-makkori>
 Looking on Pursuit alone, you'll find <https://github.com/epost/purescript-node-postgres> is actively maintained. I use node-sqlite3 for many of my projects and keep it fairly maintained, though the binding itself is completely minimal: <https://github.com/justinwoo/purescript-node-sqlite3>
 
 Overall, you should learn how to use FFI so you can make wrappers around things you need and improve their types overall.
+
+## HTTPure
+
+You might look at this project if you want to try something active written in plain PureScript https://github.com/cprussin/purescript-httpure

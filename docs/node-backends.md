@@ -16,4 +16,4 @@ Overall, you should learn how to use FFI so you can make wrappers around things 
 
 ## HTTPure
 
-You might look at this project if you want to try something active written in plain PureScript https://github.com/cprussin/purescript-httpure
+You might look at this project if you want to try something active written in plain PureScript <https://github.com/cprussin/purescript-httpure>

@@ -43,6 +43,6 @@ You might try this bash script, but if it doesn't work, make a PR: <https://gith
 
 Unfortunately, the Nix package for PureScript is usually broken, and there is no visible interest in making the package use the binaries from GitHub. As a result, installing the compiler through Nix will usually be broken or irreproducable.
 
-Try this simple derivation for the compiler: <https://github.com/srdqty/purescript-project-template/blob/61fe75058ebccfa6150b6aa71b5c639a2c98b027/nix/pkgs/purescript/default.nix>
+Try this simple derivation for the compiler: <https://github.com/srdqty/purescript-project-template/blob/902f3e7c5ec4284a0878cb4806553e3756552231/nix/pkgs/purescript/default.nix>
 
 On the other hand, the Psc-Package package is fine: <https://github.com/NixOS/nixpkgs/blob/a6fa300cf7192b61234436dd199f3678b648a096/pkgs/development/compilers/purescript/psc-package/default.nix>

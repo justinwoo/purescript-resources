@@ -28,6 +28,7 @@ Pages
   node-backends
   databases
   travis
+  azure-pipelines
   typelevel-programming
   datatype-generics
   blogs

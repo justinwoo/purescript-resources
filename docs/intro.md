@@ -37,6 +37,6 @@ Various donated libraries to be maintained by contributors of `purescript-contri
 
 ## What is the difference between row type of Type (# Type) and Records (`{}`/`Record ()`)?
 
-Read here: https://pursuit.purescript.org/builtins/docs/Prim#t:Record
+Read here: <https://pursuit.purescript.org/builtins/docs/Prim#t:Record>
 
 Note the parens vs curly brace

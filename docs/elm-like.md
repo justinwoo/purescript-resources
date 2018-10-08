@@ -4,6 +4,10 @@
 
 Use Halogen with one component, then add a few more whenever you find something that makes sense as a component. Or try to jerry-rig some web components setup.
 
+## Hedwig
+
+Another library that presents you a fairly Elm-like experience <https://github.com/utkarshkukreti/purescript-hedwig>
+
 ## Spork
 
 For an up to date Elm-like that is performant, you should look at <https://github.com/natefaubion/purescript-spork>

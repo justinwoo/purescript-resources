@@ -4,7 +4,8 @@ Azure Pipelines works surprisingly well, with no hacks needed to get things goin
 
 ## Example config
 
-```yml
+```yaml
+
 pool:
   vmImage: 'Ubuntu 16.04'
 
@@ -39,7 +40,7 @@ steps:
 
 If you don't mind using npm:
 
-```yml
+```yaml
 pool:
   vmImage: 'Ubuntu 16.04'
 

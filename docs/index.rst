@@ -29,6 +29,7 @@ Pages
   databases
   travis
   azure-pipelines
+  non-pulp
   typelevel-programming
   datatype-generics
   blogs

@@ -43,6 +43,8 @@ You might try this bash script, but if it doesn't work, make a PR: <https://gith
 
 Unfortunately, the Nix package for PureScript is usually broken, and there is no visible interest in making the package use the binaries from GitHub. As a result, installing the compiler through Nix will usually be broken or irreproducable.
 
-Try this simple derivation for the compiler: <https://github.com/srdqty/purescript-project-template/blob/902f3e7c5ec4284a0878cb4806553e3756552231/nix/pkgs/purescript/default.nix>
+I have started collecting easy ways of installing PureScript-related tools with Nix via the released binaries: <https://github.com/justinwoo/easy-purescript-nix>. Please try this! If you don't use NixOS, you can quite readily use this like so in <https://github.com/justinwoo/dotfiles/commit/3b839ec52cab87df24455987b47fd942b61b4f43>.
 
-On the other hand, the Psc-Package package is fine: <https://github.com/NixOS/nixpkgs/blob/a6fa300cf7192b61234436dd199f3678b648a096/pkgs/development/compilers/purescript/psc-package/default.nix>
+You can also try this simple derivation for the compiler: <https://github.com/srdqty/purescript-project-template/blob/902f3e7c5ec4284a0878cb4806553e3756552231/nix/pkgs/purescript/default.nix>
+
+On the other hand, the Psc-Package package on nixpkgs is fine: <https://github.com/NixOS/nixpkgs/blob/a6fa300cf7192b61234436dd199f3678b648a096/pkgs/development/compilers/purescript/psc-package/default.nix>

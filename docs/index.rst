@@ -18,6 +18,7 @@ Pages
   installation
   community
   psc-package
+  spacchetti
   ffi
   json
   http-requests

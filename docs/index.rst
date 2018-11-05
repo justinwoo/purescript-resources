@@ -7,7 +7,7 @@ This guide contains a lot of 🌶️. If you'd like to have something changed or
 
 There is another resources page out there that you might look at here: `https://github.com/JordanMartinez/purescript-jordans-reference <https://github.com/JordanMartinez/purescript-jordans-reference>`_
 
-.. note:: If there is a topic you would like more help with that is not in this guide, open a issue in the Github repo for it to request it.
+.. note:: Do you find this guide useful? Please contribute your own writing to this page if you do!
 
 Pages
 ==================

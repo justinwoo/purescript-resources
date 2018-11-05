@@ -10,7 +10,7 @@ Pure PureScript. Fast if you don't write naive code with thousands of unkeyed ch
 
 ## React-Basic
 
-Quite transparent React interop.
+Quite transparent React interop. Start by looking here: <https://github.com/f-f/purescript-react-basic-todomvc>
 
 [React-Basic](https://github.com/lumihq/purescript-react-basic)
 

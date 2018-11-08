@@ -2,17 +2,21 @@
 
 There are effectively two actively maintained and working solutions.
 
-## Halogen
-
-Pure PureScript. Fast if you don't write naive code with thousands of unkeyed children.
-
-[Halogen](https://github.com/slamdata/purescript-halogen/)
-
 ## React-Basic
 
 Quite transparent React interop. Start by looking here: <https://github.com/f-f/purescript-react-basic-todomvc>
 
+See the starter here: <https://github.com/lumihq/react-basic-starter>
+
+And the TodoMVC implementation here: <https://github.com/f-f/purescript-react-basic-todomvc>
+
 [React-Basic](https://github.com/lumihq/purescript-react-basic)
+
+## Halogen
+
+Pure PureScript. Fast if you don't write naive code with thousands of unkeyed children. Note that the docs are slow to update, but each major version is very usable. This library can end up being a deep rabbit hole of FP ideas and how FP also models OOP. Consider React-Basic if you want to get started quickly and improve your codebase incrementally.
+
+[Halogen](https://github.com/slamdata/purescript-halogen/)
 
 ## No library
 

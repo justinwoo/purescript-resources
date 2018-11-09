@@ -8,6 +8,8 @@ Quite transparent React interop. Start by looking here: <https://github.com/f-f/
 
 See the starter here: <https://github.com/lumihq/react-basic-starter>
 
+See my fork with all of my opinionated things here: <https://github.com/justinwoo/spacchetti-react-basic-starter>
+
 And the TodoMVC implementation here: <https://github.com/f-f/purescript-react-basic-todomvc>
 
 [React-Basic](https://github.com/lumihq/purescript-react-basic)

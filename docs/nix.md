@@ -1,5 +1,7 @@
 # Usage with Nix
 
+You might look through this post to see the components involved: <https://qiita.com/kimagure/items/aec640d0047d08d2ce90>
+
 I've been trying to put a few things together:
 
 ## easy-purescript-nix

@@ -17,6 +17,12 @@ I use Psc-Package for everything at work and at home for project dependency mana
 
 For Bower criticisms, you should read and understand <http://harry.garrood.me/blog/purescript-why-bower/>. Then you can start using Psc-Package for projects like a normal person.
 
+## "Why can't I just use NPM"?
+
+Read the link above to read why npm-style dependencies don't work for PureScript.
+
+However, **yes, almost everyone uses npm for their JavaScript dependencies. It is essential to how PureScript interops with existing JavaScript libraries.**
+
 ## "Where do I find some general documentation on PureScript?"
 
 Documentation is here <https://github.com/purescript/documentation>

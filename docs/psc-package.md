@@ -1,4 +1,6 @@
-# Psc-Package
+# Psc-Package or Spago
+
+I use Psc-Package, but I realize it might not be what people readily want. Maybe Spago will help: <https://github.com/spacchetti/spago>
 
 See the docs for Psc-Package here <https://psc-package.readthedocs.io/en/latest/>
 

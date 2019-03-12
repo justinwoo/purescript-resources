@@ -15,7 +15,7 @@ In that case, welcome. If not, maybe you'll still want to just poke around and l
 
 You can just use Spago if you want some solution based on package sets: <https://github.com/spacchetti/spago>
 
-I use Psc-Package for everything at work and at home for project dependency management. See the docs for Psc-Package <https://psc-package.readthedocs.io/en/latest/> and my package set for Psc-Package <https://spacchetti.readthedocs.io/en/latest/>
+I use Psc-Package for everything at work and at home for project dependency management. See the docs for Psc-Package <https://psc-package.readthedocs.io/en/latest/> and the new package-sets <https://github.com/purescript/package-sets>
 
 For Bower criticisms, you should read and understand <http://harry.garrood.me/blog/purescript-why-bower/>. Then you can start using Psc-Package for projects like a normal person.
 

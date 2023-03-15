@@ -18,7 +18,7 @@ And the TodoMVC implementation here: <https://github.com/f-f/purescript-react-ba
 
 Pure PureScript. Fast if you don't write naive code with thousands of unkeyed children. Note that the docs are slow to update, but each major version is very usable. This library can end up being a deep rabbit hole of FP ideas and how FP also models OOP. Consider React-Basic if you want to get started quickly and improve your codebase incrementally.
 
-See the starter projects here: <https://github.com/slamdata/purescript-halogen-template>, <https://github.com/citizennet/purescript-halogen-template>
+See the starter project here: <https://github.com/slamdata/purescript-halogen-template>
 
 See an example real-world application with authentication, routing, state management, and more: <https://github.com/thomashoneyman/purescript-halogen-realworld>
 
